@@ -1,4 +1,4 @@
-# damny
+# Deku
 
 A new Flutter project.
 
